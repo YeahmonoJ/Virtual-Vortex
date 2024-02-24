@@ -1,23 +1,23 @@
 .Colortop {
     height: 50px;
-    width: 1900x;
+    width: 1920x;
     background-color: #430300;
     position: relative;
     top: 223px;
-
-    
-    
-
+}
+.BannerTop {
+    height: 250px;
+    width: 1920x;
+    background-color: #430300;
+    position: relative;
+    top: -295px;
 }
 .Colorbottom {
     height: 50px;
-    width: 1900x;
+    width: 1920x;
     background-color: #430300;
     position: relative;
     top: 100px;
-    
-    
-
 }
 .Colorleft {
     height: 50px;
@@ -26,25 +26,31 @@
     position: relative;
     top: 100px;
     left: 0px;
-
-    
-    
-
 }
 .Colorright {
     height: 50px;
-    width: 600px;
+    width: 583px;
     background-color: #430300;
     position: relative;
     top: 50px;
     right: -1304px;
-
-    
-    
-
 }
-h2 {
-    color: blue;
-    margin-left: 20px;
-    
+#PikaImage{
+    width: 25%;
+    position: absolute;
+    top: 80px;
+}
+#LuffyImage{
+    width: 10%;
+    position: absolute;
+    right: 100px;
+    top: 45px;
+}
+
+.ColorSecondBackground {
+    height: 750px;
+    width: 1920x;
+    background-color: #280300;
+    position: relative;
+    top: -200px;
 }
