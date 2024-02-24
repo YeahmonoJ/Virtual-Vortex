@@ -1,0 +1,50 @@
+.Colortop {
+    height: 50px;
+    width: 1900x;
+    background-color: #430300;
+    position: relative;
+    top: 223px;
+
+    
+    
+
+}
+.Colorbottom {
+    height: 50px;
+    width: 1900x;
+    background-color: #430300;
+    position: relative;
+    top: 100px;
+    
+    
+
+}
+.Colorleft {
+    height: 50px;
+    width: 600px;
+    background-color: #430300;
+    position: relative;
+    top: 100px;
+    left: 0px;
+
+    
+    
+
+}
+.Colorright {
+    height: 50px;
+    width: 600px;
+    background-color: #430300;
+    position: relative;
+    top: 50px;
+    right: -1304px;
+
+    
+    
+
+}
+h2 {
+    color: blue;
+    margin-left: 20px;
+    
+}
