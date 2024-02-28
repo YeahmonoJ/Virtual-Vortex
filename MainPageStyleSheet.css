@@ -54,3 +54,39 @@
     position: relative;
     top: -200px;
 }
+.ColorHyperLinkBackground {
+    height: 750px;
+    width: 1920x;
+    background-color: blue;
+    position: relative;
+    top: -500px;
+}
+
+.TextHyperLinks a {
+    display: inline-block;
+    margin: 0 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.5;
+    
+}
+
+.WhiteLineTop{
+    height: 2px;
+    width: 705px;
+    top: -1000px;
+    left: 600px;
+    position: relative;
+    background-color: #D55816;
+}
+
+
+.WhiteLineTop2{
+    height: 2px;
+    width: 705px;
+    top: -1010px;
+    left: 600px;
+    position: relative;
+    background-color: white;
+}
