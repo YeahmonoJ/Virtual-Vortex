@@ -43,7 +43,7 @@
 #LuffyImage{
     width: 10%;
     position: absolute;
-    right: 100px;
+    right: 300px;
     top: 45px;
 }
 
@@ -89,4 +89,101 @@
     left: 600px;
     position: relative;
     background-color: white;
+}
+
+.BorderLineOrange{
+    height: 4px;
+    width: 1886px;
+    top: -940px;
+    position: relative;
+    background-color: #D55816;
+    left: 1px;
+}
+.BorderLineWhite{
+    height: 4px;
+    width: 1886px;
+    top: -935px;
+    position: relative;
+    background-color: white;
+    left: 1px;
+}
+
+.HyperLinkHomePage{
+    height: 100px;
+    width: 400px;
+    top: -795px;
+    position: relative;
+    background-color: #280300;
+    left: 175px;
+}
+.HyperLinkVideosMore{
+    height: 100px;
+    width: 400px;
+    top: -895px;
+    position: relative;
+    background-color: #280300;
+    left: 850px;
+}
+.Merch{
+    height: 100px;
+    width: 300px;
+    top: -995px;
+    position: relative;
+    background-color: #280300;
+    left: 1525px;
+}
+.HyperLinkTextColor{
+    color: white;
+    font-size: 25px;
+}
+.BorderLineOrangeTwo{
+    height: 4px;
+    width: 1886px;
+    top: -740px;
+    position: relative;
+    background-color: #D55816;
+    left: 1px;
+}
+.BorderLineWhiteTwo{
+    height: 4px;
+    width: 1886px;
+    top: -734px;
+    position: relative;
+    background-color: white;
+    left: 1px;
+}
+.ContactInfo {
+    height: 10px;
+    width: 1920x;
+    background-color: #280300;
+    position: relative;
+    top: -720px;
+}
+.HyperLinkTextColorTwo{
+    color: white;
+    font-size: 20px;
+}
+.ContactInfoEmail {
+    height: 10px;
+    width: 1920x;
+    background-color: #280300;
+    position: relative;
+    top: -700px;
+}
+
+.VerticalLineOrange{
+    height: 4px;
+    width: 1886px;
+    top: -740px;
+    position: relative;
+    background-color: #D55816;
+    left: 1px;
+
+}
+.TopBannerBackgroundTwo{
+    height: 325px;
+    width: 200px;
+    background-color: blue;
+    position: relative;
+    top: -1615px;
 }
